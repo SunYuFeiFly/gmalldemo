@@ -32,5 +32,4 @@ public class UmsMember implements Serializable {
     private int luckeyCount;
     private int historyIntegration;
 
-
 }
